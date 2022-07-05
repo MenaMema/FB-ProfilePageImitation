@@ -3,9 +3,10 @@
 ## Final Solution:
 
 ### link: https://github.com/Rami24t/Social-Network-Page-Imitation
-
+### https://menamema.github.io/FB-ProfilePageImitation/
 ## Live Solution . Fully Responsive
 
+### Pink Panther - Fan Page-Site in 2022 using CSS and HTML
 ### Studio Ghibli - Social Network fan Page in 2022 Design using CSS, Tailwind, and HTML.
 
 - My live solution link: https://rami24t.github.io/Social-Network-Page-Imitation/StudioGhibli-SocialPage.html
